@@ -1,1 +1,1 @@
-For now just a script I did to convert to utf-8 subtitles downloaded from subdivx.com 
+convert-utf8.sh ---> pasar a codificación utf8 los subtítulos bajados de www.subdivx.com.
